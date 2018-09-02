@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">عائلتي الحبيبة</string>
+    <string name="game_name">عائلتي الحبيبة</string>
+    <string name="title_activity_niveau">Settings</string>
+    <string name="send_ball_to">ارسل الكرة الى</string>
+    <!--
+    <string name="level_1">مستوى 1</string>
+    <string name="level_2">مستوى 2</string>
+    <string name="level_3">مستوى 3</string>
+    <string name="level_4">مستوى 4</string>
+    <string name="level_5">مستوى 5</string>
+    <string name="level_6">مستوى 6</string>
+    -->
+    <string name="instruction_1">افتح القائمة لضبط مستوى اللعبة وإضافة أو إزالة أفراد العائلة.</string>
+    <string name="instruction_2">اضغط على صبي مع النظارات لالتقاط صورة ، واضغط مع الاستمرار لبدء التسجيل الصوتي.</string>
+    <string name="menu_1">اختر المستوى</string>
+    <string name="menu_2">أضف شخصًا</string>
+    <string name="menu_3">حذف شخص</string>
+    <string name="name">اسم</string>
+    <string name="label">ملصق</string>
+    <string name="win">أحسنت !</string>
+    <string name="win2">تهانينا لك !</string>
+    <string name="win3">انت ذكي جدا !</string>
+    <string name="win4">أنا فخور بك !</string>
+    <string name="win5">ممتاز !</string>
+    <string name="lose1">جرب مرة اخرى !</string>
+    <string name="lose2">يمكنك فعلها!</string>
+    <string name="lose3">لا يزال قليلا!</string>
+    <string name="lose4">أنت هناك تقريبًا!</string>
+    <string name="ball"> تغيير الكرة </string>
+</resources>

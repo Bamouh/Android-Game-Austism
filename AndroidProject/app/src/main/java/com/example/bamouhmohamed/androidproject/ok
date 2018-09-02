@@ -1,0 +1,59 @@
+
+{
+    "type" : "Parent",
+    "ok" : "test",
+    "Organisations" :
+       [
+            {
+                "id" : 1,
+                "name" : "organisation 1",
+                "children" : [
+                  {
+                    "id" : 1,
+                    "first_name" : "Younes",
+                    "last_name" : "Najjar",
+                    "gender" : "male"
+                  },
+                  {
+                      "id" : 2,
+                      "first_name" : "Lets",
+                      "last_name" : "go",
+                      "gender" : "male"
+                    },
+                    {
+                      "id" : 3,
+                      "first_name" : "Test",
+                      "last_name" : "3",
+                      "gender" : "male"
+                    }
+                ]
+            },
+            {
+                "id" : 2,
+                "name" : "organisation 2",
+                "children" : [
+                  {
+                    "id" : 3,
+                    "first_name" : "Star",
+                    "last_name" : "Life",
+                    "gender" : "male"
+                  }
+                ]
+            }
+
+
+       ],
+    "children" : [{
+                "id" : 1,
+                "first_name" : "Ok",
+                "last_name" : "Dude",
+                "gender" : "male"
+},
+{
+                "id" : 2,
+                "first_name" : "haha",
+                "last_name" : "test",
+                "gender" : "female"
+}
+                ]
+}
